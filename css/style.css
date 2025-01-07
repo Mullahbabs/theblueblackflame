@@ -206,7 +206,7 @@
 @media (max-width: 991.98px) {
     .sticky-top.navbar-light {
         position: relative;
-        background: var(--bs-white);
+        background: ;
     }
 
     .navbar.navbar-expand-lg .navbar-toggler {
@@ -462,7 +462,7 @@
     position: absolute;
     top: 0;
     padding: 10px 35px;
-    border: 1px solid var(--bs-secondary);
+    border: transparent;
     color: var(--bs-white);
     background: #6A5ACD;
     border-radius: 50px;
